@@ -1,7 +1,6 @@
 # IBM-Project-4033-1658681080
 Technology Bucket: Artificial Intelligence
 Project Statement: AI based discourse for Banking Industry
-
 Team Members
 Team Leader -Sneha V
 Team Member 1 -Sindhumathi B
